@@ -1,0 +1,25 @@
+{
+  "name": "theia-sticky-sidebar-lrs",
+  "version": "1.0.0",
+  "description": "![Theia Sticky Sidebar logo](https://raw.githubusercontent.com/liviucmg/theia-sticky-sidebar/master/assets/logo.png \"Theia Sticky Sidebar logo\")",
+  "main": "js/theia-sticky-sidebar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizreginaldo/theia-sticky-sidebar.git"
+  },
+  "keywords": [],
+  "authors": [
+    "WeCodePixels <contact@wecodepixels.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luizreginaldo/theia-sticky-sidebar/issues"
+  },
+  "homepage": "https://github.com/luizreginaldo/theia-sticky-sidebar#readme",
+  "dependencies": {
+    "jquery": ">=1.7.0"
+  }
+}
